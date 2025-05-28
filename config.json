@@ -1,0 +1,16 @@
+{
+  "name": "AppDaemon Legacy",
+  "version": "0.16.7",
+  "slug": "appdaemon_legacy",
+  "description": "Starší verze AppDaemonu pro Home Assistant",
+  "startup": "application",
+  "boot": "auto",
+  "init": false,
+  "homeassistant_api": true,
+  "ingress": true,
+  "panel_icon": "mdi:code-braces",
+  "image": "local/appdaemon_legacy",
+  "arch": ["amd64", "armv7", "armhf", "i386", "aarch64"],
+  "options": {},
+  "schema": {}
+}
