@@ -9,7 +9,6 @@
   "homeassistant_api": true,
   "ingress": true,
   "panel_icon": "mdi:code-braces",
-  "image": "local/appdaemon_legacy",
   "arch": ["amd64", "armv7", "armhf", "i386", "aarch64"],
   "options": {},
   "schema": {}
